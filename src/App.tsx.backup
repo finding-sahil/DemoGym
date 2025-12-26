@@ -1,0 +1,32 @@
+
+import React from 'react';
+
+import Navbar from './components/Navbar';
+import Cursor from './components/Cursor';
+import Hero from './components/Hero';
+import About from './components/About';
+import Services from './components/Services';
+import Classes from './components/Classes';
+import Offer from './components/Offer';
+import Testimonial from './components/Testimonial';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+
+function App() {
+  return (
+    <div className="min-h-screen bg-dark-900 text-white selection:bg-gold-500 selection:text-black">
+      <Cursor />
+      <Navbar />
+      <Hero />
+      <About />
+      <Services />
+      <Classes />
+      <Offer />
+      <Testimonial />
+      <Contact />
+      <Footer />
+    </div>
+  );
+}
+
+export default App;
