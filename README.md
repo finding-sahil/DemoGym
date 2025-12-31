@@ -62,7 +62,7 @@ The output will be in the `dist/` directory.
 
 ## 📄 License
 
-This project is private and intended for demonstration purposes.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
