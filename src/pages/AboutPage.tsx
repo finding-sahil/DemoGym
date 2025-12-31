@@ -24,7 +24,7 @@ const AboutPage: React.FC = () => {
                             <div className="h-1 w-20 bg-gold-500 mb-8 mt-4" />
 
                             <p className="text-gray-400 mb-6 leading-relaxed">
-                                Located in the heart of Silchar, Assam, Barbell Legacy is committed to making fitness accessible to everyone.
+                                Located in the heart of Fitness City, Demo State, DEMO GYM is committed to making fitness accessible to everyone.
                             </p>
                             <p className="text-gray-400 mb-8 leading-relaxed">
                                 Our mission is to inspire and empower individuals of all ages and fitness levels to lead

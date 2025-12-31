@@ -9,7 +9,7 @@ const reviews = [
         name: "Sahil Khan",
         initials: "SK",
         role: "Pro Athlete",
-        text: "A place where you push yourself to your limit and break through them. Incredible atmosphere and top-tier equipment. Best gym in Silchar hands down."
+        text: "A place where you push yourself to your limit and break through them. Incredible atmosphere and top-tier equipment. Best gym in Fitness City hands down."
     },
     {
         id: 2,
@@ -23,7 +23,7 @@ const reviews = [
         name: "Rahul Das",
         initials: "RD",
         role: "Member",
-        text: "Barbell Legacy has completely changed my perspective on fitness. The environment is motivating and the community is supportive. 60% off pre-sale was a steal!"
+        text: "DEMO GYM has completely changed my perspective on fitness. The environment is motivating and the community is supportive. 60% off pre-sale was a steal!"
     }
 ];
 

@@ -11,14 +11,14 @@ const Footer: React.FC = () => {
                         <h3 className="text-2xl font-black text-white uppercase">Contact</h3>
                         <div className="space-y-4 text-gray-400 text-sm leading-relaxed">
                             <p>
-                                Khatal-Point, Silchar,<br />
-                                Assam, India - 788006
+                                123 Demo St, Fitness City,<br />
+                                Demo State, Demo Country - 000000
                             </p>
                             <p className="hover:text-gold-500 transition-colors cursor-pointer">
-                                +91 86382 71317
+                                +1 234 567 890
                             </p>
                             <p className="hover:text-gold-500 transition-colors cursor-pointer">
-                                contact@barbelllegacy.com
+                                contact@demogym.com
                             </p>
                         </div>
                     </div>
@@ -64,7 +64,7 @@ const Footer: React.FC = () => {
                 {/* Bottom Bar */}
                 <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
                     <p className="text-gray-600 text-xs font-medium">
-                        &copy; {new Date().getFullYear()} Barbell Legacy. All rights reserved. Designed with ❤️ by <span className="text-gold-600">CRAVENOX</span>
+                        &copy; {new Date().getFullYear()} DEMO GYM. All rights reserved. Designed with ❤️ by <span className="text-gold-600">CRAVENOX</span>
                     </p>
 
                     <div className="flex gap-4">

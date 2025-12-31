@@ -28,10 +28,8 @@ const Social: React.FC = () => {
                 </motion.h2>
 
                 <div className="flex flex-col md:flex-row justify-center items-center gap-6">
-                    <motion.a
-                        href="https://www.instagram.com/barbelllegacygym/"
-                        target="_blank"
-                        rel="noopener noreferrer"
+                    <motion.button
+                        onClick={() => alert('Follow Us button is working!')}
                         initial={{ opacity: 0, x: -20 }}
                         whileInView={{ opacity: 1, x: 0 }}
                         viewport={{ once: true }}
@@ -41,12 +39,10 @@ const Social: React.FC = () => {
                         <Instagram className="w-6 h-6" />
                         <span>Follow Us</span>
                         <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-                    </motion.a>
+                    </motion.button>
 
-                    <motion.a
-                        href="https://chat.whatsapp.com/LmwFo7b7FZv4Ot18wk1iFW?utm_source=ig&utm_medium=social&utm_content=link_in_bio"
-                        target="_blank"
-                        rel="noopener noreferrer"
+                    <motion.button
+                        onClick={() => alert('Join Channel button is working!')}
                         initial={{ opacity: 0, x: 20 }}
                         whileInView={{ opacity: 1, x: 0 }}
                         viewport={{ once: true }}
@@ -56,7 +52,7 @@ const Social: React.FC = () => {
                         <MessageCircle className="w-6 h-6" />
                         <span>Join Channel</span>
                         <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-                    </motion.a>
+                    </motion.button>
                 </div>
             </div>
         </section>

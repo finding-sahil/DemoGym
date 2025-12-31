@@ -22,10 +22,10 @@ const Hero: React.FC = () => {
                     transition={{ duration: 0.8 }}
                 >
                     <span className="text-gold-400 tracking-[0.5em] text-sm md:text-base uppercase font-bold mb-4 block">
-                        Silchar’s First Luxury Gym
+                        Fitness City’s First Luxury Gym
                     </span>
                     <h1 className="text-5xl md:text-7xl lg:text-8xl font-black text-white mb-6 tracking-tight">
-                        BARBELL <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold-400 to-gold-600">LEGACY</span>
+                        DEMO <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold-400 to-gold-600">GYM</span>
                     </h1>
                     <p className="text-xl md:text-2xl text-gray-300 max-w-2xl mx-auto mb-10 font-light">
                         Redefining fitness with premium amenities and world-class equipment.

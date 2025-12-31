@@ -32,7 +32,7 @@ const ContactPage: React.FC = () => {
                                         <Phone className="text-gold-500 w-6 h-6" />
                                     </div>
                                     <div>
-                                        <p className="text-white font-bold">+91 86382 71317</p>
+                                        <p className="text-white font-bold">+1 234 567 890</p>
                                         <p className="text-gray-500 text-sm">Call us directly</p>
                                     </div>
                                 </div>
@@ -41,7 +41,7 @@ const ContactPage: React.FC = () => {
                                         <Mail className="text-gold-500 w-6 h-6" />
                                     </div>
                                     <div>
-                                        <p className="text-white font-bold">contact@barbelllegacy.com</p>
+                                        <p className="text-white font-bold">contact@demogym.com</p>
                                         <p className="text-gray-500 text-sm">Send us an email</p>
                                     </div>
                                 </div>
@@ -50,8 +50,8 @@ const ContactPage: React.FC = () => {
                                         <MapPin className="text-gold-500 w-6 h-6" />
                                     </div>
                                     <div>
-                                        <p className="text-white font-bold">Khatal-Point, Silchar</p>
-                                        <p className="text-gray-500 text-sm">Assam, India - 788006</p>
+                                        <p className="text-white font-bold">123 Demo St, Fitness City</p>
+                                        <p className="text-white font-bold">Demo State, Demo Country - 000000</p>
                                     </div>
                                 </div>
                             </div>
@@ -73,7 +73,7 @@ const ContactPage: React.FC = () => {
                                     </div>
                                     <div>
                                         <label className="block text-gray-400 text-sm mb-2">Your Number *</label>
-                                        <input type="text" className="w-full bg-dark-900 border border-white/10 p-4 text-white focus:border-gold-500 outline-none rounded" placeholder="+91..." />
+                                        <input type="text" className="w-full bg-dark-900 border border-white/10 p-4 text-white focus:border-gold-500 outline-none rounded" placeholder="+1..." />
                                     </div>
                                 </div>
                                 <div>

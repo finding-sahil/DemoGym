@@ -10,7 +10,7 @@ const Contact: React.FC = () => {
                             Visit The <span className="text-gold-500">Legacy</span>
                         </h2>
                         <p className="text-gray-400 text-lg mb-10">
-                            Experience the future of fitness at our premium facility in Silchar.
+                            Experience the future of fitness at our premium facility in Fitness City.
                             Drop by for a tour or contact us to learn more.
                         </p>
 
@@ -21,8 +21,8 @@ const Contact: React.FC = () => {
                                 </div>
                                 <div>
                                     <h3 className="text-xl font-bold text-white mb-2">Location</h3>
-                                    <p className="text-gray-400">Khatal-Point, Silchar,</p>
-                                    <p className="text-gray-400">Assam, India - 788006</p>
+                                    <p className="text-gray-400">123 Demo St, Fitness City,</p>
+                                    <p className="text-gray-400">Demo State, Demo Country - 000000</p>
                                 </div>
                             </div>
 
@@ -32,7 +32,7 @@ const Contact: React.FC = () => {
                                 </div>
                                 <div>
                                     <h3 className="text-xl font-bold text-white mb-2">Contact</h3>
-                                    <p className="text-gray-400">+91 86382 71317</p>
+                                    <p className="text-gray-400">+1 234 567 890</p>
                                     <p className="text-gray-400 text-sm mt-1">Available 6:00 AM - 10:00 PM</p>
                                 </div>
                             </div>
@@ -54,7 +54,7 @@ const Contact: React.FC = () => {
                             <div className="text-center p-8">
                                 <MapPin className="w-16 h-16 text-gold-500 mx-auto mb-4 opacity-50" />
                                 <p className="text-gray-500">Interactive Map would load here</p>
-                                <p className="text-xs text-gray-700 mt-2">Khatal-Point, Silchar</p>
+                                <p className="text-xs text-gray-700 mt-2">123 Demo St, Fitness City</p>
                             </div>
                         </div>
                     </div>

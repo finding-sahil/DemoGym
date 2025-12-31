@@ -30,8 +30,8 @@ const Navbar: React.FC = () => {
         <nav className={`fixed w-full z-50 transition-all duration-300 ${scrolled || location.pathname !== '/' ? 'glass py-4' : 'bg-transparent py-6'}`}>
             <div className="container mx-auto px-6 flex justify-between items-center">
                 <Link to="/" className="flex items-center gap-2 group">
-                    <img src="/logo.png" alt="Barbell Legacy" className="h-12 w-auto group-hover:scale-105 transition-transform" />
-                    <span className="text-xl font-bold tracking-wider text-white hidden sm:block">BARBELL LEGACY</span>
+                    <img src="/logo.png" alt="DEMO GYM" className="h-12 w-auto group-hover:scale-105 transition-transform" />
+                    <span className="text-xl font-bold tracking-wider text-white hidden sm:block">DEMO GYM</span>
                 </Link>
 
                 <div className="hidden md:flex items-center gap-8">

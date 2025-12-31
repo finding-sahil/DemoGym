@@ -16,12 +16,12 @@ const About: React.FC = () => {
                         <span className="text-gold-500 font-bold tracking-widest text-sm uppercase mb-4 block border-l-4 border-gold-500 pl-4">About Us</span>
                         <h2 className="text-4xl md:text-5xl font-black text-white mb-6 uppercase leading-tight">
                             Welcome To <br />
-                            <span className="text-gold-500">Barbell Legacy</span>
+                            <span className="text-gold-500">DEMO GYM</span>
                         </h2>
 
                         <p className="text-gray-400 mb-8 leading-relaxed">
                             We are not just a gym; we are a sanctuary for those who refuse to settle.
-                            Located in the heart of Silchar, Barbell Legacy redefines fitness with luxury amenities,
+                            Located in the heart of Fitness City, DEMO GYM redefines fitness with luxury amenities,
                             world-class equipment, and an atmosphere that commands greatness.
                         </p>
 
