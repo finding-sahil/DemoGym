@@ -66,4 +66,4 @@ This project is private and intended for demonstration purposes.
 
 ---
 
-Created with ❤️ by Antigravity
+Created with ❤️ by CRAVENOX
