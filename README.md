@@ -66,4 +66,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Created with ❤️ by Findin.Sahil
+Created with ❤️ by @Findin.Sahil
